@@ -1,21 +1,20 @@
 console.log("Welcome to the main module")
+// import necessary functions
+import { createPlan } from "./plan.js"
+import { plantSeeds } from "./tractor.js"
+import { usePlants } from "./field.js"
+import { harvestPlants } from "./harvester.js"
+import { Catalog } from "./catalog.js"
 
 //importing createplan set to var to log to test
-import { createPlan } from "./plan.js"
-const yearlyPlan= createPlan()
+const yearlyPlan = createPlan()
 console.log(yearlyPlan)
-
-import { plantSeeds } from "./tractor.js"
 plantSeeds(yearlyPlan);
 
-import { usePlants } from "./field.js"
 const plants = usePlants();
-
-import { harvestPlants } from "./harvester.js"
-const harvested = harvestPlants(plants); 
-console.log(harvested);
-
+const harvested = harvestPlants(plants);
+//import { Catalog } from "./catalog.js"
 console.log(plants)
 
-
-
+const cropHTMLElement = document.querySelector(".container")
+cropHTMLElement.innerHTML = Catalog(harvested)
