@@ -1,672 +1,0 @@
-Script started on Tue Jun  7 09:27:25 2022
-]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[oh-my-zsh] Random theme 'Soliah' loaded
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsindex.html [1m[36mscripts[39;49m[0m    [1m[36mstyles[39;49m[0m     typescript
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd w[?1l>[?2004l
-]2;cd w]1;cdcd: no such file or directory: w
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd w [?1l>[?2004l
-]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda]2;barracuda@Barracudas-MacBook-Pro]1;~]7;file://Barracudas-MacBook-Pro.local/Users/barracuda[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~[0m[00m
-$ [K[?1h=[?2004hccd w [?1l>[?2004l
-]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda]2;barracuda@Barracudas-MacBook-Pro]1;~]7;file://Barracudas-MacBook-Pro.local/Users/barracuda[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~[0m[00m
-$ [K[?1h=[?2004hccd workspace[1m/[0m[0m [?1l>[?2004l
-]2;cd workspace]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace]2;barracuda@Barracudas-MacBook-Pro]1;~/workspace]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace[0m[00m
-$ [K[?1h=[?2004hmmod
-[0mMODULE_PATH       mod-mono-server   mod-mono-server4  module_path     
-[Jmod               [Jmod-mono-server2  [J[1;31mmodern-farm[0m/      [Jmodules         [J[A[A[0m[27m[24m[0m[2Cmod[K[0m
-[J[A[5Cern-farm[?1l>[?2004l
-[J]2;modern-farm]1;modern-farm[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hcclear[?1l>[?2004l
-]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd src[?1l>[?2004l
-]2;cd src]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsindex.html [1m[36mscripts[39;49m[0m    [1m[36mstyles[39;49m[0m     typescript
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hsserve[?1l>[?2004l
-]2;serve]1;serve[32m[39m
-[32m   ┌──────────────────────────────────────────────────┐[39m
-   [32m│[39m                                                  [32m│[39m
-   [32m│[39m   [32mServing![39m                                       [32m│[39m
-   [32m│[39m                                                  [32m│[39m
-   [32m│[39m   [1mLocal:[22m  http://localhost:61516[31m[39m                 [32m│[39m
-   [32m│[39m   [31m[39m                                               [32m│[39m
-   [32m│[39m   [31mThis port was picked because [4m3000[24m is in use.[39m   [32m│[39m
-   [32m│[39m                                                  [32m│[39m
-   [32m│[39m   [90mCopied local address to clipboard![39m             [32m│[39m
-   [32m│[39m                                                  [32m│[39m
-[32m   └──────────────────────────────────────────────────┘[39m
-[32m[39m
-^C
-[35mINFO:[39m Gracefully shutting down. Please wait...
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd[?1l>[?2004l
-]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda]2;barracuda@Barracudas-MacBook-Pro]1;~]7;file://Barracudas-MacBook-Pro.local/Users/barracuda[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~[0m[00m
-$ [K[?1h=[?2004hccd workspace[1m/[0m[0m [?1l>[?2004l
-]2;cd workspace]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace]2;barracuda@Barracudas-MacBook-Pro]1;~/workspace]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace[0m[00m
-$ [K[?1h=[?2004hccd modern-farm[1m/[0m[0m [?1l>[?2004l
-]2;cd modern-farm]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd src[?1l>[?2004l
-]2;cd src]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd[?1l>[?2004l
-]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda]2;barracuda@Barracudas-MacBook-Pro]1;~]7;file://Barracudas-MacBook-Pro.local/Users/barracuda[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~[0m[00m
-$ [K[?1h=[?2004h  cd workspace[1m/[0m[0m [?1l>[?2004l
-]2;cd workspace]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace]2;barracuda@Barracudas-MacBook-Pro]1;~/workspace]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace[0m[00m
-$ [K[?1h=[?2004hccd modern-farm[1m/[0m[0m [?1l>[?2004l
-]2;cd modern-farm]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[1m[36mnode_modules[39;49m[0m      package.json      [1m[36mtest[39;49m[0m
-package-lock.json [1m[36msrc[39;49m[0m               typescript
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd src[?1l>[?2004l
-]2;cd src]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsindex.html [1m[36mscripts[39;49m[0m    [1m[36mstyles[39;49m[0m     typescript
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hsscripts[?1l>[?2004l
-]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src/scripts]2;barracuda@Barracudas-MacBook-Pro]1;..m/src/scripts]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src/scripts[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src/scripts[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsfield.js   main.js    plan.js    [1m[36mseeds[39;49m[0m      tractor.js
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src/scripts]2;barracuda@Barracudas-MacBook-Pro]1;..m/src/scripts]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src/scripts[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src/scripts[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004httouch harvester.js[?1l>[?2004l
-]2;touch harvester.js]1;touch[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src/scripts]2;barracuda@Barracudas-MacBook-Pro]1;..m/src/scripts]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src/scripts[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src/scripts[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsfield.js     main.js      [1m[36mseeds[39;49m[0m
-harvester.js plan.js      tractor.js
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src/scripts]2;barracuda@Barracudas-MacBook-Pro]1;..m/src/scripts]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src/scripts[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm/src/scripts[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd[?1l>[?2004l
-]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda]2;barracuda@Barracudas-MacBook-Pro]1;~]7;file://Barracudas-MacBook-Pro.local/Users/barracuda[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~[0m[00m
-$ [K[?1h=[?2004hccd workspace[1m/[0m[0m [?1l>[?2004l
-]2;cd workspace]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace]2;barracuda@Barracudas-MacBook-Pro]1;~/workspace]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace[0m[00m
-$ [K[?1h=[?2004hccd modern-farm[1m/[0m[0m [?1l>[?2004l
-]2;cd modern-farm]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hnnpm run test[?1l>[?2004l
-]2;npm run test]1;npm
-> modern-farm@1.0.0 test
-> jest --watchAll --verbose
-
-[2J[3J[H[1m[2mDetermining test suites to run...[22m[22m[999D[K
-[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Seed objects have correct properties
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorn has correct properties (2ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mPotato has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [31m✕[39m [2mAsparagus has correct properties (5ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSoybean has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSunflower has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mWheat has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Sowing the fields with seeds
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [31m✕[39m [2mCorrect type and number of seeds sown (3ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Harvesting the grown plants
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct total number of plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of asparagus plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of corn plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of potato plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of soybean plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of sunflower plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of wheat plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[1m[31m  [1m● [22m[1mSeed objects have correct properties › Asparagus has correct properties[39m[22m
-
-    [2mexpect([22m[31mreceived[39m[2m).[22mtoMatchObject[2m([22m[32mexpected[39m[2m)[22m
-
-    [32m- Expected  - 1[39m
-    [31m+ Received  + 1[39m
-
-    [2m  Object {[22m
-    [32m-   "height": 24,[39m
-    [31m+   "height": 20,[39m
-    [2m    "output": 4,[22m
-    [2m    "type": "Asparagus",[22m
-    [2m  }[22m
-[2m[22m
-[2m    [0m [90m 40 |[39m     test([32m"Asparagus has correct properties"[39m[33m,[39m () [33m=>[39m {[0m[22m
-[2m    [0m [90m 41 |[39m         expect(createAsparagus())[0m[22m
-[2m    [0m[31m[1m>[22m[2m[39m[90m 42 |[39m             [33m.[39mtoMatchObject({ type[33m:[39m [32m"Asparagus"[39m[33m,[39m height[33m:[39m [35m24[39m[33m,[39m output[33m:[39m [35m4[39m })[0m[22m
-[2m    [0m [90m    |[39m              [31m[1m^[22m[2m[39m[0m[22m
-[2m    [0m [90m 43 |[39m     })[0m[22m
-[2m    [0m [90m 44 |[39m[0m[22m
-[2m    [0m [90m 45 |[39m     test([32m"Soybean has correct properties"[39m[33m,[39m () [33m=>[39m {[0m[22m
-[2m[22m
-[2m      [2mat Object.<anonymous> ([22m[2m[0m[36mtest/farm.test.js[39m[0m[2m:42:14)[22m[2m[22m
-
-[1m[31m  [1m● [22m[1mSowing the fields with seeds › Correct type and number of seeds sown[39m[22m
-
-    [2mexpect([22m[31mreceived[39m[2m).[22mtoMatchObject[2m([22m[32mexpected[39m[2m)[22m
-
-    [32m- Expected  - 1[39m
-    [31m+ Received  + 1[39m
-
-    [33m@@ -13,11 +13,11 @@[39m
-    [2m      "height": 32,[22m
-    [2m      "output": 2,[22m
-    [2m      "type": "Potato",[22m
-    [2m    },[22m
-    [2m    Object {[22m
-    [32m-     "height": 24,[39m
-    [31m+     "height": 20,[39m
-    [2m      "output": 4,[22m
-    [2m      "type": "Asparagus",[22m
-    [2m    },[22m
-    [2m    Object {[22m
-    [2m      "height": 20,[22m
-[2m[22m
-[2m    [0m [90m 63 |[39m     test([32m"Correct type and number of seeds sown"[39m[33m,[39m () [33m=>[39m {[0m[22m
-[2m    [0m [90m 64 |[39m         expect(plantedSeeds)[0m[22m
-[2m    [0m[31m[1m>[22m[2m[39m[90m 65 |[39m             [33m.[39mtoMatchObject([0m[22m
-[2m    [0m [90m    |[39m              [31m[1m^[22m[2m[39m[0m[22m
-[2m    [0m [90m 66 |[39m                 [[0m[22m
-[2m    [0m [90m 67 |[39m                     { type[33m:[39m [32m"Corn"[39m[33m,[39m height[33m:[39m [35m180[39m[33m,[39m output[33m:[39m [35m6[39m }[33m,[39m[0m[22m
-[2m    [0m [90m 68 |[39m                     { type[33m:[39m [32m"Corn"[39m[33m,[39m height[33m:[39m [35m180[39m[33m,[39m output[33m:[39m [35m6[39m }[33m,[39m[0m[22m
-[2m[22m
-[2m      [2mat Object.<anonymous> ([22m[2m[0m[36mtest/farm.test.js[39m[0m[2m:65:14)[22m[2m[22m
-
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 total
-[1mTests:       [22m[1m[31m2 failed[39m[22m, [1m[32m12 passed[39m[22m, 14 total
-[1mSnapshots:   [22m0 total
-[1mTime:[22m        1.129s
-[2mRan all test suites[22m[2m.[22m
-
-[1mWatch Usage[22m
-[2m › Press [22mf[2m to run only failed tests.[22m
-[2m › Press [22mo[2m to only run tests related to changed files.[22m
-[2m › Press[22m p [2mto filter by a filename regex pattern.[22m
-[2m › Press[22m t [2mto filter by a test name regex pattern.[22m
-[2m › Press[22m q [2mto quit watch mode.[22m
-[2m › Press [22mEnter[2m to trigger a test run.[22m
-[2J[3J[H[1m[2mDetermining test suites to run...[22m[22m[999D[K
-[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Seed objects have correct properties
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorn has correct properties (3ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mPotato has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mAsparagus has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSoybean has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSunflower has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mWheat has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Sowing the fields with seeds
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorrect type and number of seeds sown[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Harvesting the grown plants
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct total number of plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of asparagus plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of corn plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of potato plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of soybean plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of sunflower plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of wheat plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 total
-[1mTests:       [22m[1m[32m14 passed[39m[22m, 14 total
-[1mSnapshots:   [22m0 total
-[1mTime:[22m        0.418s, estimated 1s
-[2mRan all test suites[22m[2m.[22m
-
-[1mWatch Usage: [22m[2mPress [22mw[2m to show more.[22m[2J[3J[H[1m[2mDetermining test suites to run...[22m[22m[999D[K
-[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Seed objects have correct properties
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorn has correct properties (3ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mPotato has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mAsparagus has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSoybean has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSunflower has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mWheat has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Sowing the fields with seeds
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorrect type and number of seeds sown[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Harvesting the grown plants
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct total number of plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of asparagus plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of corn plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of potato plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of soybean plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of sunflower plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of wheat plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 total
-[1mTests:       [22m[1m[32m14 passed[39m[22m, 14 total
-[1mSnapshots:   [22m0 total
-[1mTime:[22m        0.196s, estimated 1s
-[2mRan all test suites[22m[2m related to changed files[22m[2m.[22m
-
-[1mWatch Usage: [22m[2mPress [22mw[2m to show more.[22m[2J[3J[H[1m[2mDetermining test suites to run...[22m[22m[999D[K
-[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Seed objects have correct properties
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorn has correct properties (3ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mPotato has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mAsparagus has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSoybean has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSunflower has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mWheat has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Sowing the fields with seeds
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorrect type and number of seeds sown (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Harvesting the grown plants
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct total number of plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of asparagus plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of corn plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of potato plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of soybean plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of sunflower plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of wheat plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 total
-[1mTests:       [22m[1m[32m14 passed[39m[22m, 14 total
-[1mSnapshots:   [22m0 total
-[1mTime:[22m        0.187s, estimated 1s
-[2mRan all test suites[22m[2m related to changed files[22m[2m.[22m
-
-[1mWatch Usage: [22m[2mPress [22mw[2m to show more.[22m[2J[3J[H[1m[2mDetermining test suites to run...[22m[22m[999D[K
-[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Seed objects have correct properties
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorn has correct properties (3ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mPotato has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mAsparagus has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSoybean has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSunflower has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mWheat has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Sowing the fields with seeds
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorrect type and number of seeds sown[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Harvesting the grown plants
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct total number of plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of asparagus plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of corn plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of potato plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of soybean plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of sunflower plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of wheat plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 total
-[1mTests:       [22m[1m[32m14 passed[39m[22m, 14 total
-[1mSnapshots:   [22m0 total
-[1mTime:[22m        0.185s, estimated 1s
-[2mRan all test suites[22m[2m related to changed files[22m[2m.[22m
-
-[1mWatch Usage: [22m[2mPress [22mw[2m to show more.[22m[2J[3J[H[1m[2mDetermining test suites to run...[22m[22m[999D[K
-[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Seed objects have correct properties
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorn has correct properties (2ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mPotato has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mAsparagus has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSoybean has correct properties (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mSunflower has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mWheat has correct properties[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Sowing the fields with seeds
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mCorrect type and number of seeds sown (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A  Harvesting the grown plants
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct total number of plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of asparagus plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of corn plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of potato plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of soybean plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of sunflower plants (1ms)[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A    [32m✓[39m [2mHarvested correct number of wheat plants[22m
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A
-[0m[7m[33m[1m RUNS [22m[39m[27m[0m [2mtest/[22m[1mfarm.test.js[22m
-[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 total
-[1mTests:       [22m[1m[32m14 passed[39m[22m, 14 total
-[1mSnapshots:   [22m0 total
-[1mTime:[22m        0.171s, estimated 1s
-[2mRan all test suites[22m[2m related to changed files[22m[2m.[22m
-
-[1mWatch Usage: [22m[2mPress [22mw[2m to show more.[22m
-[1B[J[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd[?1l>[?2004l
-]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda]2;barracuda@Barracudas-MacBook-Pro]1;~]7;file://Barracudas-MacBook-Pro.local/Users/barracuda[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~[0m[00m
-$ [K[?1h=[?2004h  cd workspace[1m/[0m[0m [?1l>[?2004l
-]2;cd workspace]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace]2;barracuda@Barracudas-MacBook-Pro]1;~/workspace]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace[0m[00m
-$ [K[?1h=[?2004hccd modern-farm[1m/[0m[0m [?1l>[?2004l
-]2;cd modern-farm]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd git    c  ggit statyss us[?1l>[?2004l
-]2;git status]1;gitOn branch main
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31m.babelrc[m
-	[31m.gitignore[m
-	[31mpackage-lock.json[m
-	[31mpackage.json[m
-	[31msrc/[m
-	[31mtest/[m
-	[31mtypescript[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004ha ggti g git add --all[?1l>[?2004l
-]2;git add --all]1;git[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hggit tat   status[?1l>[?2004l
-]2;git status]1;gitOn branch main
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   .babelrc[m
-	[32mnew file:   .gitignore[m
-	[32mnew file:   package-lock.json[m
-	[32mnew file:   package.json[m
-	[32mnew file:   src/index.html[m
-	[32mnew file:   src/scripts/field.js[m
-	[32mnew file:   src/scripts/harvester.js[m
-	[32mnew file:   src/scripts/main.js[m
-	[32mnew file:   src/scripts/plan.js[m
-	[32mnew file:   src/scripts/seeds/asparagus.js[m
-	[32mnew file:   src/scripts/seeds/corn.js[m
-	[32mnew file:   src/scripts/seeds/potato.js[m
-	[32mnew file:   src/scripts/seeds/soybean.js[m
-	[32mnew file:   src/scripts/seeds/sunflower.js[m
-	[32mnew file:   src/scripts/seeds/wheat.js[m
-	[32mnew file:   src/scripts/tractor.js[m
-	[32mnew file:   src/styles/main.css[m
-	[32mnew file:   src/typescript[m
-	[32mnew file:   test/farm.test.js[m
-	[32mnew file:   typescript[m
-
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hggit commit -m ""f"i"n"a"l" "m"o"d"e"r"n"-"f"a"r"m" "a"l"l" "t"e"s"t"s" "p"a"s"s"!"[?1l>[?2004l
-[0m[27m[24m[Jdquote> [K[?1h=[?2004hccd[?1l>[?2004l
-[0m[27m[24m[Jdquote> [K[?1h=[?2004hccd[?1l>[?2004l
-[0m[27m[24m[Jdquote> [K[?1h=[?2004hggiti status status [8D[?1l>[?2004l
-[0m[27m[24m[Jdquote> [K[?1h=[?2004hq git status[10D          [10D""final modern-farm all tests pass"[?1l>[?2004l
-[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
-[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
-[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
-[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?2004l
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004h[?2004l
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hccd[?1l>[?2004l
-]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda]2;barracuda@Barracudas-MacBook-Pro]1;~]7;file://Barracudas-MacBook-Pro.local/Users/barracuda[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~[0m[00m
-$ [K[?1h=[?2004hccd workspace[1m/[0m[0m [?1l>[?2004l
-]2;cd workspace]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace]2;barracuda@Barracudas-MacBook-Pro]1;~/workspace]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace[0m[00m
-$ [K[?1h=[?2004hccd modern-farm[1m/[0m[0m [?1l>[?2004l
-]2;cd modern-farm]1;cd[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004hggit staustus[1C[1C[?1l>[?2004l
-]2;git status]1;gitOn branch main
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   .babelrc[m
-	[32mnew file:   .gitignore[m
-	[32mnew file:   package-lock.json[m
-	[32mnew file:   package.json[m
-	[32mnew file:   src/index.html[m
-	[32mnew file:   src/scripts/field.js[m
-	[32mnew file:   src/scripts/harvester.js[m
-	[32mnew file:   src/scripts/main.js[m
-	[32mnew file:   src/scripts/plan.js[m
-	[32mnew file:   src/scripts/seeds/asparagus.js[m
-	[32mnew file:   src/scripts/seeds/corn.js[m
-	[32mnew file:   src/scripts/seeds/potato.js[m
-	[32mnew file:   src/scripts/seeds/soybean.js[m
-	[32mnew file:   src/scripts/seeds/sunflower.js[m
-	[32mnew file:   src/scripts/seeds/wheat.js[m
-	[32mnew file:   src/scripts/tractor.js[m
-	[32mnew file:   src/styles/main.css[m
-	[32mnew file:   src/typescript[m
-	[32mnew file:   test/farm.test.js[m
-	[32mnew file:   typescript[m
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   src/typescript[m
-
-[1m[7m%[27m[1m[0m                                                                            ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[34mbarracuda[00m on [31mBarracudas-MacBook-Pro.local[00m in [34m~/workspace/modern-farm[0m[00m([36m~|[37mmain[31m*[00m[00m)
-$ [K[?1h=[?2004h
