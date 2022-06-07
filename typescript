@@ -1,0 +1,59 @@
+Script started on Mon Jun  6 14:48:20 2022
+]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[oh-my-zsh] Random theme 'duellj' loaded
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace/modern-farm[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m982[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[14:48:20][73D[?1h=[?2004hccd[?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda]2;barracuda@Barracudas-MacBook-Pro]1;~]7;file://Barracudas-MacBook-Pro.local/Users/barracuda[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m983[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[14:48:24][73D[?1h=[?2004hccd workspace[1m/[0m[0m [?1l>[?2004l
+]2;cd workspace]1;cd[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace]2;barracuda@Barracudas-MacBook-Pro]1;~/workspace]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m984[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[14:48:27][73D[?1h=[?2004hccd ma odern-farm[1m/[0m[0m [?1l>[?2004l
+]2;cd modern-farm]1;cd[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace/modern-farm[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m985[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[14:48:32][73D[?1h=[?2004hccd srv[?1l>[?2004l
+]2;cd srv]1;cdcd: no such file or directory: srv
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace/modern-farm[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m986[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[14:58:48][73D[?1h=[?2004hsservr e[?1l>[?2004l
+]2;serve]1;serve[32m[39m
+[32m   ┌────────────────────────────────────────┐[39m
+   [32m│[39m                                        [32m│[39m
+   [32m│[39m   [32mServing![39m                             [32m│[39m
+   [32m│[39m                                        [32m│[39m
+   [32m│[39m   [1mLocal:[22m  http://localhost:3000        [32m│[39m
+   [32m│[39m                                        [32m│[39m
+   [32m│[39m   [90mCopied local address to clipboard![39m   [32m│[39m
+   [32m│[39m                                        [32m│[39m
+[32m   └────────────────────────────────────────┘[39m
+[32m[39m
+cd
+cd wo     ^C
+[35mINFO:[39m Gracefully shutting down. Please wait...
+cd wor	 r	   
+cd wo	     cdcd    cd
+^C
+[33mWARNING:[39m Force-closing all open sockets...
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace/modern-farm[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m987[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[15:01:45][73D[?1h=[?2004hccd w [?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda]2;barracuda@Barracudas-MacBook-Pro]1;~]7;file://Barracudas-MacBook-Pro.local/Users/barracuda[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m988[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[15:01:51][73D[?1h=[?2004hccd workspace[1m/[0m[0m [?1l>[?2004l
+]2;cd workspace]1;cd[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace]2;barracuda@Barracudas-MacBook-Pro]1;~/workspace]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m989[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[15:01:54][73D[?1h=[?2004hccd modern-farm[1m/[0m[0m [?1l>[?2004l
+]2;cd modern-farm]1;cd[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace/modern-farm[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m990[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[15:01:59][73D[?1h=[?2004hccd srv[?1l>[?2004l
+]2;cd srv]1;cdcd: no such file or directory: srv
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm]2;barracuda@Barracudas-MacBook-Pro]1;..e/modern-farm]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace/modern-farm[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m991[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[15:02:04][73D[?1h=[?2004hccdsrc src[1C[1C[?1l>[?2004l
+]2;cd src]1;cd[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace/modern-farm/src[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m992[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[15:02:21][73D[?1h=[?2004hsserve[?1l>[?2004l
+]2;serve]1;serve[32m[39m
+[32m   ┌────────────────────────────────────────┐[39m
+   [32m│[39m                                        [32m│[39m
+   [32m│[39m   [32mServing![39m                             [32m│[39m
+   [32m│[39m                                        [32m│[39m
+   [32m│[39m   [1mLocal:[22m  http://localhost:3000        [32m│[39m
+   [32m│[39m                                        [32m│[39m
+   [32m│[39m   [90mCopied local address to clipboard![39m   [32m│[39m
+   [32m│[39m                                        [32m│[39m
+[32m   └────────────────────────────────────────┘[39m
+[32m[39m
+^C
+[35mINFO:[39m Gracefully shutting down. Please wait...
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src]2;barracuda@Barracudas-MacBook-Pro]1;..dern-farm/src]7;file://Barracudas-MacBook-Pro.local/Users/barracuda/workspace/modern-farm/src[0m[27m[24m[J[0;34m[1m┌─[[0m[0m[1;32mbarracuda[1;34m@[0m[0;36mBarracudas-MacBook-Pro[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/workspace/modern-farm/src[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33m993[0;34m[1m][0m[0m
+[0;34m[1m└─[1m[[1;35m$[0;34m[1m][0m[0m [K[63C[16:10:50][73D[?1h=[?2004h
